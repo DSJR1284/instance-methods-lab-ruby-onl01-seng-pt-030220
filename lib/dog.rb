@@ -3,3 +3,6 @@
     puts "Wolf!"
   end
 
+def sit 
+  puts "the dog is sitting"
+end 
