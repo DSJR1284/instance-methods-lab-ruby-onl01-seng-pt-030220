@@ -1,5 +1,5 @@
  class Dog 
-  def self.bark
-    "Wolf!"
+  def bark
+    puts "Wolf!"
   end
 
